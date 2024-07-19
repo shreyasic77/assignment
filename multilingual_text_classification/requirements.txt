@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+transformers
+pydantic
+aiocache
+slowapi
+langdetect
+sentencepiece
+torch
